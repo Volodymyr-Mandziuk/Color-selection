@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "color-selection-67960"
-  }
+    "default": "my-portfolio-4c115",
+    "portfolio": "my-portfolio-4c115"
+  },
+  "targets": {},
+  "etags": {}
 }
