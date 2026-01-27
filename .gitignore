@@ -25,4 +25,4 @@ dist-ssr
 .env
 # Firebase Hosting local cache & state
 .firebase/
-hosting*.cache
+
